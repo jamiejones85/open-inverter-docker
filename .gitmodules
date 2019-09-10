@@ -1,0 +1,6 @@
+[submodule "tumanako-inverter-fw-bootloader"]
+	path = tumanako-inverter-fw-bootloader
+	url = https://github.com/jsphuebner/tumanako-inverter-fw-bootloader.git
+[submodule "stm32-sine"]
+	path = stm32-sine
+	url = https://github.com/jsphuebner/stm32-sine.git
